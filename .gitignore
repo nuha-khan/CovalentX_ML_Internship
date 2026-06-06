@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ML Datasets
+Dataset/
+datasets/
+data/
+
+# Trained Models
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+# Kaggle Downloads
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
